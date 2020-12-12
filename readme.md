@@ -84,4 +84,4 @@ Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para p
 
 <!-- Referencias -->
 [linkedin]: https://www.linkedin.com/in/branko-haberkon/
-[webario]: https://brankohbk.github.io/webario/
+[webario]: https://brankohbk.github.io/webario/index.html
