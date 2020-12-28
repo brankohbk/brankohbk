@@ -71,7 +71,7 @@ https://brankohbk.github.io/snippets/
 
 ## ¡Gracias por visitar mi perfil!
 
-Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para pasar el rato luego.
+Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para pasar el rato.
 
 ---
 
