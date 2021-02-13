@@ -44,7 +44,7 @@ Fundador | 2009 - presente
 
 Reparación de equipos informáticos, celulares, monitores. 
 
-Soporte técnico de redes, 
+Soporte técnico de redes, software y hardware.
 
 https://www.restpoint.com.ar
  
@@ -84,4 +84,4 @@ Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para p
 
 <!-- Referencias -->
 [linkedin]: https://www.linkedin.com/in/branko-haberkon/
-[webario]: https://brankohbk.github.io/webario/
+[webario]: https://brankohbk.github.io/webario/index.html
