@@ -1,7 +1,7 @@
 # ¡Hola :wave:! Soy **Branko**.
 ---
 
-## <img src="assets/branko.png" height="16"> Bio. </h2>
+## <img src="assets/branko_15x16.png"> Bio. </h2>
 
 Apasionado por la tecnología desde que tengo memoria, gran parte de la infancia la pasé jugando con Legos, cables, baterías, motores y leds.
 
@@ -22,7 +22,7 @@ En 2020 comencé a desempeñarme como Mentor Jr. en Bootcamps de desarrollo Fron
 
 [<img src="assets/youtube.png" height="16"> YouTube](https://youtube.com/brankoh "Acá subo mis tutoriales")
 
-[<img src="assets/linkedin.png" height="16"> LinkedIn][linkedin]
+[<img src="assets/linkedin_18x16.png"> LinkedIn][linkedin]
 
 [:envelope: hola@branko.com.ar](mailto:hola@branko.com.ar)
 
@@ -38,7 +38,7 @@ En 2020 comencé a desempeñarme como Mentor Jr. en Bootcamps de desarrollo Fron
 <details>
 <summary>Restpoint Argentina</summary>
 
-<img src="assets/restpoint.png" height="80">
+<img src="assets/restpoint_63x80.png">
 
 Fundador | 2009 - presente
 
@@ -54,7 +54,7 @@ https://www.restpoint.com.ar
 <details>
 <summary>Mindhub</summary>
 
-<img src="assets/mindhub.jpg" height="80">
+<img src="assets/mindhub_160x80.jpg">
 
 Mentor FrontEnd | 2020 - presente
 
@@ -78,7 +78,7 @@ Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para p
 <h2 align="center">:raised_hands: ¡Hasta pronto!</h2>
 
 <p align="center">
-  <img src="assets/branko.png" height="80">
+  <img src="assets/branko_67x80.png">
 </p>
 
 
