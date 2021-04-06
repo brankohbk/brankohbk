@@ -11,7 +11,7 @@ Buscando generar herramientas que facilitaran las tareas de mis clientes, descub
 
 A principios de 2019 concursé por una beca para un Bootcamp de desarrollo Fullstack, quedando dentro de los 200 seleccionados de entre más de 4000 aspirantes. 
 
-En 2020 comencé a desempeñarme como Mentor Jr. en Bootcamps de desarrollo Frontend, lo que me permitió forjar relaciones, afianzar conocimientos y mejorar mi metodología de trabajo.
+En 2020 comencé a desempeñarme como Mentor en Bootcamps de desarrollo Frontend, lo que me permitió forjar relaciones, afianzar conocimientos y mejorar mi metodología de trabajo.
 
 ---
 ---
