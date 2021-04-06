@@ -60,7 +60,7 @@ Mentor FrontEnd | 2020 - presente
 
 Dictado de workshops y acompañamiento de los alumnos a lo largo de la cursada.
 
-Junto con mi colega recopilamos algunos ejemplos utilizados en clase para que los alumnos los tengan al alcance de la mano:
+Acá hay una recopilación de ejemplos utilizados en clase para que los alumnos los tengan al alcance de la mano:
 
 https://brankohbk.github.io/snippets/
  
