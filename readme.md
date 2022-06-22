@@ -56,9 +56,9 @@ https://www.restpoint.com.ar
 
 <img src="assets/mindhub_160x80.jpg">
 
-Mentor FrontEnd | 2020 - presente
+Mentor FrontEnd | Dic 2020 - Mar 2022
 
-Dictado de workshops y acompañamiento de los alumnos a lo largo de la cursada.
+Desarrollo y dictado de cursos; y acompañamiento de los alumnos a lo largo de la cursada.
 
 Acá hay una recopilación de ejemplos utilizados en clase para que los alumnos los tengan al alcance de la mano:
 
