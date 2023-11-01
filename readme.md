@@ -24,7 +24,6 @@ En 2020 comencé a desempeñarme como Mentor en Bootcamps de desarrollo Frontend
 
 [<img src="assets/linkedin_18x16.png"> LinkedIn][linkedin]
 
-[:envelope: hola@branko.com.ar](mailto:hola@branko.com.ar)
 
 
 ---
