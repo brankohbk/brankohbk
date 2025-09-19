@@ -1,80 +1,56 @@
-# ¡Hola :wave:! Soy **Branko**.
----
-
-## <img src="assets/branko_15x16.png"> Bio. </h2>
-
-Apasionado por la tecnología desde que tengo memoria, gran parte de la infancia la pasé jugando con Legos, cables, baterías, motores y leds.
-
-En 2006 egresé del secundario con el título de técnico en electrónica y comencé a trabajar realizando tareas de soporte técnico de informática.
-
-Buscando generar herramientas que facilitaran las tareas de mis clientes, descubrí que la programación me resultaba súper interesante. Es así como comencé a aprender de manera autodidacta desarrollo Web (HTML, CSS, JS), PHP y Java .
-
-A principios de 2019 concursé por una beca para un Bootcamp de desarrollo Fullstack, quedando dentro de los 200 seleccionados de entre más de 4000 aspirantes. 
-
-En 2020 comencé a desempeñarme como Mentor en Bootcamps de desarrollo Frontend, lo que me permitió forjar relaciones, afianzar conocimientos y mejorar mi metodología de trabajo.
+# Hi :wave:! I'm **Branko**.
 
 ---
+
+## <img src="assets/branko_15x16.png"> About me </h2>
+
+Frontend-oriented Software Engineer from Argentina, passionate about solving problems that affect user experience.
+
+Known for adaptability, clarity in explaining complex concepts, and over 15 years supporting users and businesses with technology solutions.
+
+- 🌱 Currently finishing my **Software Development degree** (IFTS N°29, CABA).  
+- 🛠 Founder of **RestPoint Argentina**, IT support & software development since 2009.  
+- 🎯 2026 goal → Launching a **repair management system** for IT service companies.  
+
 ---
 
-## :link: Mis redes:
+## 🚀 Experience
+- **Founder at [RestPoint Argentina][link-restpoint]** (2009–2021 / 2024–present) → IT support and software development.  
+- **Mentor at [Mindhub][link-mindhub]** (2019–2022) → training future developers.  
+- **Software Engineer at [Bonzzu][link-bonzzu]** (2022–2023) → web development projects.
+
+---
+
+## :link: Connect with me:
 
 <!-- ~~www.branko.com.ar~~ (En construcción) -->
 
 [<img src="assets/youtube.png" height="16"> YouTube](https://youtube.com/brankoh "Acá subo mis tutoriales")
 
 [<img src="assets/linkedin_18x16.png"> LinkedIn][linkedin]
-
-
-
----
+  
 ---
 
-## :computer: Trabajos destacados:
+## Thanks for stoping by!
 
-
-
-
-<details>
-<summary>Restpoint Argentina</summary>
-
-<img src="assets/restpoint_63x80.png">
-
-Fundador | 2009 - presente
-
-Reparación de equipos informáticos, celulares, monitores. 
-
-Soporte técnico de redes, software y hardware.
-
-https://www.restpoint.com.ar
- 
-</details>
-
-
-<details>
-<summary>Mindhub</summary>
-
-<img src="assets/mindhub_160x80.jpg">
-
-Mentor FrontEnd | Dic 2020 - Mar 2022
-
-Desarrollo y dictado de cursos; y acompañamiento de los alumnos a lo largo de la cursada.
-
-Acá hay una recopilación de ejemplos utilizados en clase para que los alumnos los tengan al alcance de la mano:
-
-https://brankohbk.github.io/snippets/
- 
-</details>
-
----
----
-
-## ¡Gracias por visitar mi perfil!
-
-Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para pasar el rato.
+As a reward, here's a little [:video_game: videogame][webario] .
 
 ---
 
-<h2 align="center">:raised_hands: ¡Hasta pronto!</h2>
+## 🔧 Tech Stack  
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=42b883)  ![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat&logo=jquery&logoColor=0769AD) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=777BB4) ![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=dotnet&logoColor=512BD4) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=ffffff)
+
+---
+
+## 📊 GitHub Stats  
+![Branko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brankohbk&show_icons=true&theme=default)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brankohbk&layout=compact&theme=default)  
+
+---
+
+---
+
+<h2 align="center">:raised_hands: See you soon!</h2>
 
 <p align="center">
   <img src="assets/branko_67x80.png">
@@ -84,3 +60,6 @@ Como recompensa, acá dejo un pequeño [:video_game: videojuego][webario] para p
 <!-- Referencias -->
 [linkedin]: https://www.linkedin.com/in/branko-haberkon/
 [webario]: https://brankohbk.github.io/webario/index.html
+[link-restpoint]: https://restpoint.com.ar
+[link-mindhub]: https://mindhubweb.com
+[link-bonzzu]: https://bonzzu.com
