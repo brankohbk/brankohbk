@@ -40,13 +40,7 @@ As a reward, here's a little [:video_game: videogame][webario] .
 ## 🔧 Tech Stack  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoColor=F7DF1E) ![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=flat&logo=vuedotjs&logoColor=42b883)  ![jQuery](https://img.shields.io/badge/-jQuery-000?style=flat&logo=jquery&logoColor=0769AD) ![PHP](https://img.shields.io/badge/-PHP-000?style=flat&logo=php&logoColor=777BB4) ![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=dotnet&logoColor=512BD4) ![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql&logoColor=ffffff)
 
----
-
-## 📊 GitHub Stats  
-![Branko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brankohbk&show_icons=true&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brankohbk&layout=compact&theme=default)  
-
----
 
 ---
 
